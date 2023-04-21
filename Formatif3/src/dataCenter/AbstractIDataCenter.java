@@ -1,6 +1,6 @@
 package dataCenter;
 
-public class LinkedList extends List{
+public abstract class AbstractIDataCenter implements IDataCenter{
     @Override
     public String getValue(int ligne, int col) {
         return null;

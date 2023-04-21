@@ -1,6 +1,6 @@
 package dataCenter;
 
-public class TreeSet implements IDataCenter{
+public class TreeSet extends Set{
     @Override
     public String getValue(int ligne, int col) {
         return null;

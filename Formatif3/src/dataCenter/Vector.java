@@ -1,6 +1,6 @@
 package dataCenter;
 
-public class Vector implements IDataCenter {
+public class Vector extends List{
     @Override
     public String getValue(int ligne, int col) {
         return null;

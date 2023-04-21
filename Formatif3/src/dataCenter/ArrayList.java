@@ -1,6 +1,6 @@
 package dataCenter;
 
-public class ArrayList implements IDataCenter{
+public class ArrayList extends List {
     @Override
     public String getValue(int ligne, int col) {
         return null;

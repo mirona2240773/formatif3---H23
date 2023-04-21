@@ -1,6 +1,6 @@
 package dataCenter;
 
-public class HashSet implements IDataCenter{
+public class HashSet extends Set{
     @Override
     public String getValue(int ligne, int col) {
         return null;
