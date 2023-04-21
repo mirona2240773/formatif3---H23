@@ -1,4 +1,4 @@
 package dataCenter;
 
-public class Set extends AbstractIDataCenter {
+public abstract class Set extends AbstractIDataCenter {
 }
