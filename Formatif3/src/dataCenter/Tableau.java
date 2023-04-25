@@ -1,6 +1,6 @@
 package dataCenter;
 
-public class Tableau implements IDataCenter{
+public class Tableau extends AbstractIDataCenter{
     @Override
     public String getValue(int ligne, int col) {
         return null;
